@@ -1,0 +1,66 @@
+{
+    "-MiBsfuTafbEQ7eAULxV" : {
+      "firebaseKey" : "-MiBsfuTafbEQ7eAULxV",
+      "first_name" : "Bruce",
+      "last_name" : "Lee",
+      "image": "https://variety.com/wp-content/uploads/2018/07/enter-the-dragon-bruce-lee.jpg?w=681&h=383&crop=1",
+      "favorite": true,
+      "uid": "Hl943rHZjJehETLXvU6acv8pKro2"
+    },
+    "-MiBt86VzkC-EGmJnxjm" : {
+      "firebaseKey" : "-MiBt86VzkC-EGmJnxjm",
+      "first_name" : "Muhammad",
+      "last_name" : "Ali",
+      "image": "https://cdn.britannica.com/86/192386-050-D7F3126D/Muhammad-Ali-American.jpg",
+      "favorite": false,
+      "uid": "Hl943rHZjJehETLXvU6acv8pKro2"
+    },
+    "-MiBtwf1BwN9pGavQeR3" : {
+      "firebaseKey" : "-MiBtwf1BwN9pGavQeR3",
+      "first_name" : "Mike",
+      "last_name" : "Tyson",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/mike-tyson-poses-for-a-portrait-news-photo-1654945111.jpg",
+      "favorite": false,
+      "uid": "Hl943rHZjJehETLXvU6acv8pKro2"
+    },
+    "-MiBuOfHv9NCKB_cneij" : {
+      "firebaseKey" : "-MiBuOfHv9NCKB_cneij",
+      "first_name" : "Jet",
+      "last_name" : "Li",
+      "image": "https://blackbeltmag.com/media-library/jet-li.jpg?id=29613705&width=1200&height=600&coordinates=0%2C0%2C0%2C54",
+      "favorite": true,
+      "uid": "Hl943rHZjJehETLXvU6acv8pKro2"
+    },
+    "-MiBulenBnY8by9Xn7q1" : {
+      "firebaseKey" : "-MiBulenBnY8by9Xn7q1",
+      "first_name" : "Chuck",
+      "last_name" : "Norris",
+      "image": "https://cdn2.hubspot.net/hubfs/2264894/cmas-blog/chuck%20norris%20blog/chuck-3.jpg",
+      "favorite": false,
+      "uid": "Hl943rHZjJehETLXvU6acv8pKro2"
+    },
+    "-MiBv9_aOEJQWoobjz_U" : {
+      "firebaseKey" : "-MiBv9_aOEJQWoobjz_U",
+      "first_name" : "Ip",
+      "last_name" : "Man",
+      "image": "https://chinesemartialstudies.files.wordpress.com/2012/08/ip-man-wall.jpg",
+      "favorite": true,
+      "uid": "Hl943rHZjJehETLXvU6acv8pKro2"
+    },
+    "-MiBvQiWr6XNwNa1i3-0" : {
+      "firebaseKey" : "-MiBvQiWr6XNwNa1i3-0",
+      "first_name" : "Jackie",
+      "last_name" : "Chan",
+      "image": "https://qph.cf2.quoracdn.net/main-qimg-d3199abe5ae005a3ec4dd784df5747a6.webp",
+      "favorite": true,
+      "uid": "Hl943rHZjJehETLXvU6acv8pKro2"
+    },
+    "-MiBw4tCvNZd23yTVDQw" : {
+      "firebaseKey" : "-MiBw4tCvNZd23yTVDQw",
+      "first_name" : "Jon",
+      "last_name" : "Jones",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/jon-jones-stripped-of-title-second-time-ufc-f918764f-ac18-4a92-93fb-1e7bc5e38178.jpg",
+      "favorite": true,
+      "uid": "Hl943rHZjJehETLXvU6acv8pKro2"
+    }
+  }
